@@ -49,7 +49,7 @@
         <mxCell id="sgiSBMyyLNx6GoaKA71F-14" value="否" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1052" y="609" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="sgiSBMyyLNx6GoaKA71F-15" value="判定为背景流量 (丢弃/过滤)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="sgiSBMyyLNx6GoaKA71F-15" value="判定为背景流量 (过滤)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1275" y="494" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="sgiSBMyyLNx6GoaKA71F-16" value="判定为潜在IoT流量 (保留)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
