@@ -58,7 +58,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-198" value="时间感知编码器&#xa;内部含相对时间注意力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="503" y="1099" width="220" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-199" value="多层级原型网络&#xa;(两层注意力)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-199" value="多层级原型网络&#xa;(两层注意力)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="527" y="1288" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-200" value="可学习的原型矩阵 P" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-201" value="拼接 Concat" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="81" y="1452" width="147" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-202" value="分类器 MLP&#xa;Classifier" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-202" value="分类器 MLP&#xa;Classifier" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="84" y="1576" width="141" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-203" value="分类损失&#xa;Focal Loss" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#f9130b;" vertex="1" parent="1">
