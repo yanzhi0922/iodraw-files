@@ -49,7 +49,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-195" value="融合MLP&#xa;Fusion MLP" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="432" y="656" width="139" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-196" value="一维CNN提取器&#xa;1D CNN Extractor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-196" value="一维CNN提取器&#xa;1D CNN Extractor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="489" y="845" width="185" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-197" value="+" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
