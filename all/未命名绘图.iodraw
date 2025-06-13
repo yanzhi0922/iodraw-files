@@ -19,7 +19,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-185" value="3. CNN与残差连接 (CNN &amp; Residual Connection)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;textOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="366" y="820" width="343" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-186" value="2. 异构时序嵌入 (Heterogeneous Temporal Embedding)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;opacity=50;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-186" value="2. 异构时序嵌入 (Heterogeneous Temporal Embedding)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;opacity=50;textOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="280" y="416" width="453" height="331" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-187" value="1. 数据输入 (Data Input)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
