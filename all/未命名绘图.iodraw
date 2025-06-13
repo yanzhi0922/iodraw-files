@@ -76,7 +76,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-204" value="多样性损失&#xa;Diversity Loss" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="569" y="1765" width="157" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-205" value="Total Loss" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-205" value="Total Loss" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#ef1901;" vertex="1" parent="1">
           <mxGeometry x="441" y="1881" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0IWWUnHKMr-SuBxkrq6N-188" target="0IWWUnHKMr-SuBxkrq6N-192">
