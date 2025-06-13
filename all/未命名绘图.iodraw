@@ -16,7 +16,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-95" value="4. 时间感知编码器 (Temporally-Aware Encoder)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="408" y="844" width="508" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-96" value="3. CNN特征提取 (CNN Feature Extraction)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-96" value="3. CNN特征提取 (CNN Feature Extraction)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="366" y="590" width="343" height="181" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-97" value="2. 异构时序嵌入 (Heterogeneous Temporal Embedding)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
