@@ -43,10 +43,10 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-193" value="傅里叶特征&#xa;Fourier Features" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="441" width="179" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-194" value="拼接 Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-194" value="拼接 Concat" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="428" y="558" width="147" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-195" value="融合MLP&#xa;Fusion MLP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-195" value="融合MLP&#xa;Fusion MLP" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="432" y="656" width="139" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-196" value="一维CNN提取器&#xa;1D CNN Extractor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
