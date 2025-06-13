@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-181" value="7. 损失计算 (Loss Calculation)" style="whiteSpace=wrap;strokeWidth=2;textOpacity=70;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-181" value="7. 损失计算 (Loss Calculation)" style="whiteSpace=wrap;strokeWidth=2;textOpacity=90;" vertex="1" parent="1">
           <mxGeometry x="53" y="1740" width="708" height="262" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-182" value="6. 来源追溯分类器 (Origin Tracing Classifier)" style="whiteSpace=wrap;strokeWidth=2;textOpacity=50;" vertex="1" parent="1">
