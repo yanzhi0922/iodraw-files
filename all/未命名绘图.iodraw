@@ -70,7 +70,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-202" value="分类器 MLP&#xa;Classifier" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="1576" width="141" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-203" value="分类损失&#xa;Focal Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-203" value="分类损失&#xa;Focal Loss" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="88" y="1765" width="133" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-204" value="多样性损失&#xa;Diversity Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
