@@ -22,7 +22,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-186" value="2. 异构时序嵌入 (Heterogeneous Temporal Embedding)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;opacity=50;textOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="280" y="416" width="453" height="331" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-187" value="1. 数据输入 (Data Input)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-187" value="1. 数据输入 (Data Input)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;opacity=50;textOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="20" y="250" width="943" height="116" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-188" value="包大小序列&#xa;Payload Sizes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
