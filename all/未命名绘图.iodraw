@@ -13,7 +13,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-183" value="5. 多层级原型学习 (Multi-Level Prototype Learning)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="484" y="1263" width="285" height="263" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-184" value="4. 时间感知编码器 (Temporally-Aware Encoder)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-184" value="4. 时间感知编码器 (Temporally-Aware Encoder)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;textOpacity=60;" vertex="1" parent="1">
           <mxGeometry x="408" y="1074" width="508" height="116" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-185" value="3. CNN与残差连接 (CNN &amp; Residual Connection)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;textOpacity=50;" vertex="1" parent="1">
