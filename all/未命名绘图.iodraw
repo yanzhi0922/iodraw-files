@@ -34,7 +34,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-190" value="累积时间序列&#xa;Cumulative Times" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="741" y="275" width="187" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-191" value="统计特征&#xa;Statistical Features" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-191" value="统计特征&#xa;Statistical Features" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="55" y="275" width="199" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-192" value="Embedding层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-199" value="多层级原型网络&#xa;(两层注意力)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="527" y="1288" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0IWWUnHKMr-SuBxkrq6N-200" value="可学习的原型矩阵 P" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="0IWWUnHKMr-SuBxkrq6N-200" value="可学习的原型矩阵 P" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="562" y="1452" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0IWWUnHKMr-SuBxkrq6N-201" value="拼接 Concat" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
